@@ -1,2 +1,2 @@
-# terraform_vpc_M
-terraform_vpc_M
+# terraform-aws-vpc-module
+this module contains the aws vpc module
